@@ -116,9 +116,3 @@ Please feel free to contact me at shayan.khan@nyu.edu with any questions, commen
 ├── notebook.ipynb
 ├── Stakeholder_Presentation.pptx
 └── README.md
-
-├── pdfs
-├── pics
-├── notebook.ipynb
-├── Stakeholder_Presentation.pptx
-└── README.md
