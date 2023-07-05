@@ -49,7 +49,7 @@ Almost 80% of the data was dominated by US users. Therefore the recommendation s
 <img src="pics/countries.png" alt="Users of Countries %" title="Users of Countries %">
 
 
-## Modelling and Results
+## Modeling and Results
 
 The following models were tested and compared. The models and the evaluation metrics employed can be seen in the picture below. 
 
@@ -91,6 +91,9 @@ Top Books originally rated by user:
 11 The Deep End of the Ocean (Oprah's Book Club (Hardcover))
 12 Jewels of the Sun (Irish Trilogy)
 
+
+## Conclusion
+This recommendation system model would be great to use as a baseline model for the MVP product for the startup in the user discovery phase. It is limited to the US customer base and for expanding it to a global market, more global data will have to be gathered to build a model with an accurate and confident recommendation system. Nonetheless, the startup can build up on this model through user feedback, incorporating more diverse data, and implementing the recommendations mentioned below.
 
 ## Recommendations and Next Steps
 While the recommendation system provides valuable good recommendations, there is a lot of room for improvement. The RMSE scores are still relatively high and there were a lot more records in the missing ratings dataset as compared to the known ratings dataset. The performance can be significantly improved by gathering more data and building granular user and product personas, such as genre, demographic, and other information. This would give the model more detailed information to predict from.
