@@ -1,4 +1,4 @@
-# book-recommendation-system
+# Book Recommendation System
 
 ## Problem Overview
 
